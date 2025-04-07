@@ -1,4 +1,4 @@
-# Veri Analizinde Temel İstatistiklerin Gücü: Sensör Verilerini Anlamak
+# Python ile Sensör Verilerini Okumak ve Anlamlı Hale Getirmek
 
 Bu proje, sensör verilerinin analizine ve anlamlandırılmasına odaklanmaktadır. Sensörlerden gelen verilerin doğru şekilde yorumlanması, anlamlı bilgiye dönüştürülmesi için temel istatistiksel yöntemlerin nasıl kullanılacağını incelemektedir.
 
