@@ -4,21 +4,23 @@ Bu Python projesi, dil çevirisi ve duygu analizi işlemlerini birleştiren basi
 
 ## Özellikler
 
-- **Dil Çevirisi**: Kullanıcının yazdığı metni, otomatik olarak hedef dile (İngilizce) çevirir.
-- **Duygu Analizi**: Çevrilen metni analiz ederek, metnin duygu durumunu (pozitif, negatif, nötr) belirler.
-- **Kullanıcı Dostu**: Kullanıcıdan bir metin alarak, işlem sonrası analiz sonuçlarını kullanıcıya sunar.
+- **Dil Çevirisi:** Kullanıcının yazdığı metni, otomatik olarak hedef dile (İngilizce) çevirir.
+- **Duygu Analizi:** Çevrilen metni analiz ederek, metnin duygu durumunu (pozitif, negatif, nötr) belirler.
+- **Kullanıcı Dostu:** Kullanıcıdan bir metin alarak, işlem sonrası analiz sonuçlarını kullanıcıya sunar.
+
 
 ## Gerekli Kütüphaneler
 
 Bu projede kullanılan kütüphaneler:
 
-- `TextBlob`: Metin analizi ve duygu analizi için kullanılır.
-- `deep_translator`: Google Translate API'sını kullanarak metin çevirisi yapar.
+- **TextBlob:** Metin analizi ve duygu analizi için kullanılır.
+- **deep_translator:** Google Translate API'sını kullanarak metin çevirisi yapar.
 
-### Kütüphaneleri Yüklemek İçin:
 
-```bash
+## Kütüphaneleri Yüklemek İçin:
+
 pip install textblob deep-translator
+
 
 ## Yazar
 
