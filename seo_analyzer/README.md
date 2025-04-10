@@ -27,4 +27,4 @@ Bu projede kullanılan kütüphaneler:
 
 ---
 
-Bu projede kullanılan teknikler ve yöntemler hakkında daha fazla bilgi almak için [Medium yazısını](https://github.com/suleymancetiner81/AI-Discovery-Journey/tree/375b8b056c46a235ba9e410350d1f112163b3ffa/seo_analyzer) ziyaret edebilirsiniz.
+Bu projede kullanılan teknikler ve yöntemler hakkında daha fazla bilgi almak için [Medium yazısını](https://suleymancetiner81.medium.com/basit-d%C3%BCzeyde-python-ile-web-sayfas%C4%B1-seo-analizi-e47395db9b81) ziyaret edebilirsiniz.
