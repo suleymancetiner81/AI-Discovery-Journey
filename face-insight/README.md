@@ -45,4 +45,4 @@ Aşağıdaki dosyaları aynı klasöre indirmeniz gerekiyor:
 
 ---
 
-Bu projede kullanılan teknikler ve yöntemler hakkında daha fazla bilgi almak için [Medium yazısını](https://suleymancetiner81.medium.com/yapay-zeka-ile-y%C3%BCz-i%CC%87fadesi-tan%C4%B1y%C4%B1p-g%C3%B6steren-uygulama-python-opencv-deepface-ed2204031ca0) ziyaret edebilirsiniz.
+Bu projede kullanılan teknikler ve yöntemler hakkında daha fazla bilgi almak için [Medium yazısını](https://suleymancetiner81.medium.com/python-ile-yapay-zeka-destekli-ger%C3%A7ek-zamanl%C4%B1-kamera-stream-ya%C5%9F-ve-cinsiyet-tahmini-uygulamas%C4%B1-5908964be75c) ziyaret edebilirsiniz.
