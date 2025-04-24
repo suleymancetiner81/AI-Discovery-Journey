@@ -8,19 +8,19 @@ Bu proje, gerçek zamanlı olarak yüzleri tespit edip, her yüz için yaş ve c
 
 Bu uygulama neler yapabilir?
 
-✔️ Yüzleri algılar
-✔️ Her yüz için yaş aralığını tahmin eder
-✔️ Cinsiyeti tahmin eder
-✔️ Sonuçları görsel olarak ekran üzerine yansıtır
+- ✔️ Yüzleri algılar
+- ✔️ Her yüz için yaş aralığını tahmin eder
+- ✔️ Cinsiyeti tahmin eder
+- ✔️ Sonuçları görsel olarak ekran üzerine yansıtır
 
 
 ## Kullanılan Teknolojiler
 
 Bu projede kullanılan kütüphaneler:
 
-✔️ **Python:** Çalıştırılacak platform
-✔️ **OpenCV:** Görüntü işleme ve kamera erişimi için
-✔️ **Deep Learning modelleri:** Önceden eğitilmiş caffe formatında modeller
+- ✔️ **Python:** Çalıştırılacak platform
+- ✔️ **OpenCV:** Görüntü işleme ve kamera erişimi için
+- ✔️ **Deep Learning modelleri:** Önceden eğitilmiş caffe formatında modeller
 
 
 
@@ -28,15 +28,15 @@ Bu projede kullanılan kütüphaneler:
 
 Aşağıdaki dosyaları aynı klasöre indirmeniz gerekiyor:
 
-✔️ haarcascade_frontalface_default.xml
-✔️ deploy_age.prototxt, age_net.caffemodel
-✔️ deploy_gender.prototxt, gender_net.caffemodel
+- ✔️ haarcascade_frontalface_default.xml
+- ✔️ deploy_age.prototxt, age_net.caffemodel
+- ✔️ deploy_gender.prototxt, gender_net.caffemodel
 
 
 ## 🚀 Kurulması gereken Python kütüphaneleri:
 
-✔️ opencv-python
-✔️ numpy
+- ✔️ opencv-python
+- ✔️ numpy
 
 
 ## Yazar
