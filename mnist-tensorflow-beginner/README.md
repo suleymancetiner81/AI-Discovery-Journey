@@ -13,7 +13,7 @@ Bu proje, 28x28 piksel boyutundaki el yazısı rakam görüntülerini otomatik o
 - ✔️ Görselleştirme desteği içerir
 
 
-## Kullanılan Teknolojiler
+## 🚀 Kullanılan Teknolojiler
 
 Bu projede kullanılan kütüphaneler:
 
