@@ -26,4 +26,4 @@ Bu projede, YOLOv8 (You Only Look Once) modelinin eğitilmemiş halini kullanara
 
 ---
 
-Bu projede kullanılan teknikler ve yöntemler hakkında daha fazla bilgi almak için [Medium yazısını](https://medium.com/@suleymancetiner81/drone-i%CC%87ha-siha-kameras%C4%B1-ile-nesne-tespiti-e%C4%9Fitilmemi%C5%9F-yolov8-ile-neleri-alg%C4%B1layabiliyoruz-e04ce4708e32) ziyaret edebilirsiniz.
+Bu projede kullanılan teknikler ve yöntemler hakkında daha fazla bilgi almak için [Medium yazısını](https://suleymancetiner81.medium.com/drone-i%CC%87ha-siha-kameras%C4%B1-ile-nesne-tespiti-e%C4%9Fitilmemi%C5%9F-yolov8-ile-neleri-alg%C4%B1layabiliyoruz-e04ce4708e32) ziyaret edebilirsiniz.
